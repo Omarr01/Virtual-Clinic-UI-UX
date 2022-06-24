@@ -10,4 +10,5 @@ getting reminders for follow ups, accessing medical history, and even requesting
 change.
 
 A walk-through of the application showcasing the mockup’s features can be found at the following link:
+
 https://drive.google.com/drive/folders/1-F8ZM4FU2fDiSdWNnI5_WrZo_lPFby6y
