@@ -1,5 +1,5 @@
 # Virtual-Clinic-UI-UX
-Derived functional requirements as user stories (RE and analyzing a problem scenario) and designed and created a clickable mockup for a virtual clinic (using Marvel).
+Derived functional requirements as user stories (RE and analyzing a problem scenario ) and designed and created a clickable mockup for a virtual clinic (using Marvel).
 
 The overarching theme of this project is to create an online virtual clinic management
 software. A virtual clinic management software is a software solution for clinics, doctors,
