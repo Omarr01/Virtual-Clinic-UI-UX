@@ -1,5 +1,5 @@
 # Virtual-Clinic-UI-UX
-Designed and created a clickable mockup for a virtual clinic.
+Derived functional requirements as user stories (RE and analyzing a problem scenario) and designed and created a clickable mockup for a virtual clinic.
 
 The overarching theme of this project is to create an online virtual clinic management
 software. A virtual clinic management software is a software solution for clinics, doctors,
@@ -9,5 +9,5 @@ meetings with doctors, conducting on-premise or online meetings, getting prescri
 getting reminders for follow ups, accessing medical history, and even requesting a doctor
 change.
 
-A walk-through of the application showcasing the mockup’s features (with me as a voice-over) can be found at the following link:
+A walk-through of the application showcasing the mockup’s features can be found at the following link:
 https://drive.google.com/drive/folders/1-F8ZM4FU2fDiSdWNnI5_WrZo_lPFby6y
